@@ -2,10 +2,7 @@
 <!--
 **DanLovPotato/DanLovPotato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-### :sun_with_face: Hey there, I'm Dantong Xiang
-- 🔭 I'm currently working on an optical encryption and computational decryption system using CNN for a privacy camera with a PhD student at UNC.
-- 🌱 I have emperience in Java, JavaScript, Node.js, HTML, CSS, MySql, Python, and leveraging AWS services for scalable web applications.
-- 📫 Reach out to me at xdantong12@gmail.com
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hey+there,+this+is+Dantong+Xiang+✨)](https://git.io/typing-svg)
 
 <h4 align="left">Connect with me:</h4>
 <p align="left">
